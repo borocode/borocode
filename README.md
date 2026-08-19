@@ -32,7 +32,9 @@ I found Bitcoin in **2012** back when it was single-digit dollars and trust felt
 * **DeFi & NFTs:** Early liquidity mining, Ethereum & Solana DeFi protocols (Uniswap, Jupiter), and on-chain collectibles.
 * **Sovereignty & Compute:** Self-hosted Lightning routing nodes, P2Pool mining rails, local-first compute, and open-source infrastructure tooling.
 
-When I’m not configuring routing nodes or hacking on micro-tools, I make music and beats with hardware grooveboxes & Ableton, write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
+The loop-cutting, pattern-matching workflows of early DAW music production translated directly into enterprise software QA testing for healthcare—which eventually evolved into script automation, farming protocol rewards, and routing Lightning sats.
+
+When I’m not configuring routing nodes or hacking on micro-tools, you can catch me streaming live on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**, writing essays on **[blog.boroghor.com](https://blog.boroghor.com)**, or releasing beats under **Boro Ghor**.
 
 > *"Loss doesn’t make you wise — it makes you legible to the other ghosts. They read your delays, your gaps, your dropped packets. They recognize their own. You’re just a node in a crashloop... The only difference is you’re still online."*  
 > — [YOU CANNOT FORK THE SOUL](https://blog.boroghor.com/posts/you-cannot-fork-the-soul/)
@@ -60,12 +62,12 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 
 ---
 
-### 🎹 Hardware Samplers, Beats & Music Production
+### 🎹 Audio, OBS Pipelines & Creative Production
 
-* **Hardware Grooveboxes & Samplers:** Teenage Engineering **EP-133 K.O. II** sampler & Elektron **Model:Cycles** FM groovebox.
-* **DAW & Production:** Ableton Live Lite for sampling, beatmaking, and sound collage.
-* **Music Streaming:** Listen under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr).
-* **Broadcasting & Gaming:** Live streams & casual gaming sessions over on [Twitch (borokhela)](https://www.twitch.tv/borokhela).
+* **Audio & Broadcast Engineering:** Translating music production & DAW instincts into complex multi-source OBS streaming pipes, virtual audio routing, and low-latency capture.
+* **Hardware Samplers:** Teenage Engineering **EP-133 K.O. II** sampler & Elektron **Model:Cycles** FM groovebox.
+* **Music Releases:** Beats & tracks released under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr).
+* **Broadcasting & Gaming:** Live streams & gaming sessions over on [Twitch (borokhela)](https://www.twitch.tv/borokhela).
 * **Essays & Writing:** Cyberpunk reflections, culture, and sovereign tech on [blog.boroghor.com](https://blog.boroghor.com).
 
 ---
