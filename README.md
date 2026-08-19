@@ -4,16 +4,18 @@
 
 ### *"Cypherpunks write code. You cannot fork the soul; you can only surveil the shell."*
 
-**Sovereign Infrastructure Runner • Protocol Tinkerer • Creative Technologist • Crypto-Native since 2012**
+**Sovereign Node Operator • Electronic Music Producer • Protocol Tinkerer • Crypto-Native since 2012**
 
 <br/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoroGhor?style=social&logo=x)](https://x.com/BoroGhor)
 [![Twitch Status](https://img.shields.io/badge/Twitch-borokhela-9146FF?style=social&logo=twitch)](https://www.twitch.tv/borokhela)
 [![Blog](https://img.shields.io/badge/Blog-blog.boroghor.com-39ff14?style=social&logo=hugo)](https://blog.boroghor.com)
-[![YouTube](https://img.shields.io/badge/YouTube-rishard-FF0000?style=social&logo=youtube)](https://www.youtube.com/user/rishard)
-[![Flickr](https://img.shields.io/badge/Flickr-rishadphoto-0063DC?style=social&logo=flickr)](https://www.flickr.com/photos/rishadphoto/)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=social&logo=discord)](https://discord.gg/QRuHnxQWb4)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-boroghor-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/boroghor)
+[![Bandcamp](https://img.shields.io/badge/Bandcamp-boroghor-1DA0C3?style=social&logo=bandcamp)](https://boroghor.bandcamp.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Boro%20Ghor-1DB954?style=social&logo=spotify)](https://open.spotify.com/search/Boro%20Ghor)
+[![Telegram](https://img.shields.io/badge/Telegram-boroghor__REAL-26A5E4?style=social&logo=telegram)](https://t.me/boroghor_REAL)
+[![OpenSea](https://img.shields.io/badge/OpenSea-boroghor-2081E2?style=social&logo=opensea)](https://opensea.io/boroghor)
 [![Lightning](https://img.shields.io/badge/Lightning⚡-ami%40boroghor.com-F7931A?style=social&logo=lightning)](https://boroghor.com)
 
 </div>
@@ -24,9 +26,13 @@
 
 Born in **Queens, NY** and based in the **Atlanta Metro Area, GA**. 
 
-I found Bitcoin in **2012** back when it was single-digit dollars and trust felt like pure mathematics. Over the last decade-plus, I’ve moved through every layer of the decentralized stack: assembling GPU & ASIC mining rigs in the heat (Antminer S9/D3, 1080Ti, RX 580s), trading high-leverage perpetuals, working in enterprise software QA testing, and diving deep into Ethereum & Solana DeFi (Uniswap, Jupiter airdrops) alongside the NFT waves.
+I found Bitcoin in **2012** back when it was single-digit dollars and trust felt like pure mathematics. Over the last decade-plus, I’ve moved through every layer of the decentralized stack:
+* **Mining & Hardware:** Assembling GPU & ASIC rigs in the heat (Antminer S9/D3, 1080Ti, RX 580s).
+* **Trading & Systems:** High-leverage perpetuals and enterprise software QA testing / systems validation.
+* **DeFi & NFTs:** Early liquidity mining, Ethereum & Solana DeFi protocols (Uniswap, Jupiter), and on-chain collectibles.
+* **Sovereignty & Compute:** Self-hosted Lightning routing nodes, P2Pool mining rails, local-first compute, and open-source infrastructure tooling.
 
-Today, my focus is on **self-sovereignty, local-first computing, edge compute, and building open tools**. When I’m not configuring routing nodes or hacking on micro-tools, I write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, experiment with indie hardware (Playdate / ARM64), take photos, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
+When I’m not configuring routing nodes or hacking on micro-tools, I produce electronic music with hardware grooveboxes & Ableton, write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
 
 > *"Loss doesn’t make you wise — it makes you legible to the other ghosts. They read your delays, your gaps, your dropped packets. They recognize their own. You’re just a node in a crashloop... The only difference is you’re still online."*  
 > — [YOU CANNOT FORK THE SOUL](https://blog.boroghor.com/posts/you-cannot-fork-the-soul/)
@@ -54,12 +60,22 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 
 ---
 
-### 🕹️ Hardware, Protocols & Creative Experiments
+### 🎹 Hardware Synths, Sound & Creative Production
 
-* **Handheld & Indie Dev:** Lua scripting for the **Panic Playdate** crank console; embedded hardware tweaking.
-* **Privacy & Network Security:** Tor / I2P daemon routing, WabiSabi CoinJoin mechanics, and non-custodial Lightning address architecture.
-* **DeFi Automation & Telemetry:** Building custom pool bots, liquidity trackers, and telemetry dashboards across Solana & EVM.
-* **Creative Media:** Street & travel photography on [Flickr](https://www.flickr.com/photos/rishadphoto/), essays on [Hugo Blog](https://blog.boroghor.com/), and live broadcasting on [Twitch](https://www.twitch.tv/borokhela).
+* **Hardware Grooveboxes & Samplers:** Teenage Engineering **EP-133 K.O. II** sampler & Elektron **Model:Cycles** FM groovebox.
+* **DAW & Sound Design:** Ableton Live Lite for sampling, glitch beats, and ambient soundscapes.
+* **Music Streaming:** Listen under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/search/Boro%20Ghor).
+* **Broadcasting & Gaming:** Live streams & casual gaming sessions over on [Twitch (borokhela)](https://www.twitch.tv/borokhela).
+* **Essays & Writing:** Cyberpunk reflections, culture, and sovereign tech on [blog.boroghor.com](https://blog.boroghor.com).
+
+---
+
+### 🎨 On-Chain Collectibles, Mints & Web3
+
+* **OpenSea Vault:** [opensea.io/boroghor](https://opensea.io/boroghor)
+* **Courtyard Tokenized Collectibles:** [courtyard.io/user/rishad/collection](https://courtyard.io/user/rishad/collection)
+* **Scatter Art (Kaijukaki Mint):** [scatter.art/c/kaijukaki?shill=rishad](https://www.scatter.art/c/kaijukaki?shill=rishad)
+* **Zora Creator Profile & Token:** [zora.co/@boroghor](https://zora.co/@boroghor) • `$boroghor` (`0xcd480c51a9b9c7247491430a21b6e876060121d1`)
 
 ---
 
@@ -72,10 +88,10 @@ Connect, verify, or zap across the network:
   `02375fba2022199436f903f70edc6b2f3621175e5eea1b8c46ca8066fc7dcec988`
 * **🔵 Ethereum (ENS):** `boroghor.eth`
 * **🟣 Solana Name:** `rishad.sol`
+* **💬 Telegram:** [@boroghor_REAL](https://t.me/boroghor_REAL)
 * **📝 Blog & Essays:** [blog.boroghor.com](https://blog.boroghor.com)
 * **🐦 X / Twitter:** [@BoroGhor](https://x.com/BoroGhor)
 * **🎮 Twitch:** [twitch.tv/borokhela](https://www.twitch.tv/borokhela)
-* **📸 Photography:** [flickr.com/photos/rishadphoto](https://www.flickr.com/photos/rishadphoto/)
 * **💬 Discord:** [discord.gg/QRuHnxQWb4](https://discord.gg/QRuHnxQWb4)
 * **🌍 Web:** [boroghor.com](https://boroghor.com)
 
@@ -84,11 +100,11 @@ Connect, verify, or zap across the network:
 ### 🛠️ Skills & Technologies
 
 ```text
-Languages       :: Python, Rust, TypeScript, Bash, Lua, C/C++, Go, SQL
+Languages       :: Python, Rust, TypeScript, Bash, C/C++, Go, SQL
 Protocols       :: Bitcoin / Lightning (LND & CLN), Monero (P2Pool), Solana (Web3.js), Nostr, I2P / Tor
+Audio & Synths  :: EP-133 K.O. II, Elektron Model:Cycles, Ableton Live Lite, MIDI / Sampling
 Infrastructure  :: Docker, Linux (Debian, Arch, Alpine, ARM64), Umbrel, Tailscale, Cloudflare
 Engineering     :: QA & Test Automation, Systems Auditing, Edge Hardware Optimization
-Creative Tech   :: Panic Playdate (Lua), Hugo / Markdown, Street Photography, OBS Live Streaming
 ```
 
 ---
