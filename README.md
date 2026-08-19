@@ -6,6 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoroGhor?style=social&logo=x)](https://x.com/BoroGhor)
 [![Twitch Status](https://img.shields.io/badge/Twitch-borokhela-9146FF?style=social&logo=twitch)](https://www.twitch.tv/borokhela)
+[![Blog](https://img.shields.io/badge/Blog-blog.boroghor.com-39ff14?style=social&logo=hugo)](https://blog.boroghor.com)
 [![Website](https://img.shields.io/badge/Web-boroghor.com-blue?style=social&logo=google-chrome)](https://boroghor.com)
 [![Lightning](https://img.shields.io/badge/Lightning⚡-ami%40boroghor.com-F7931A?style=social&logo=lightning)](https://boroghor.com)
 
@@ -17,7 +18,7 @@
 
 Born in **Queens, NY** and currently based in the **Atlanta Metro Area, GA**. I’ve been deep in the crypto and tech rabbit hole since **2017**—spanning Bitcoin, the Lightning Network, Monero privacy systems, Solana, DeFi primitives, and home-server sovereign infrastructure.
 
-I believe strongly in **self-custody, local-first computing, and sovereign tech stacks**. When I’m not configuring nodes, hacking on micro-tools, or experimenting with edge AI on ARM devices, you can catch me gaming and streaming over on Twitch at **[borokhela](https://www.twitch.tv/borokhela)**.
+I believe strongly in **self-custody, local-first computing, and sovereign tech stacks**. When I’m not configuring nodes, hacking on micro-tools, or experimenting with edge AI on ARM devices, you can catch me writing over on **[blog.boroghor.com](https://blog.boroghor.com)** or gaming/streaming on Twitch at **[borokhela](https://www.twitch.tv/borokhela)**.
 
 ---
 
@@ -51,6 +52,7 @@ You can verify and connect with me across decentralized platforms:
   `02375fba2022199436f903f70edc6b2f3621175e5eea1b8c46ca8066fc7dcec988`
 * **🔵 Ethereum (ENS):** `boroghor.eth`
 * **🟣 Solana Name:** `rishad.sol`
+* **📝 Blog:** [blog.boroghor.com](https://blog.boroghor.com)
 * **🐦 X / Twitter:** [@BoroGhor](https://x.com/BoroGhor)
 * **🎮 Twitch Live Stream:** [twitch.tv/borokhela](https://www.twitch.tv/borokhela)
 * **🌍 Personal Web:** [boroghor.com](https://boroghor.com)
