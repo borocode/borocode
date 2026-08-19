@@ -50,7 +50,7 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 * **🛡️ Monero Mining Rails:** P2Pool mini mining rails and native ARM64 mobile mining.
 * **🍓 Edge & CV Node:** Raspberry Pi 5 dedicated to local edge telemetry, telemetry pipes, and real-time computer vision streams.
 * **📱 Mobile Mining Node:** Solana Seeker (ARM64) running background native mining in Termux.
-* **🎮 Primary Workstation:** AMD Ryzen 9 5950X (16C/32T) • NVIDIA RTX 3080 Ti • 64GB RAM • Dual-boot Windows / Linux.
+* **🎮 Primary Workstation:** AMD Ryzen 9 5950X (16C/32T) • NVIDIA RTX 3080 Ti • 64GB RAM • Windows 11 Canary (Insider Preview).
 
 ---
 
