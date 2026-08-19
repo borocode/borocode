@@ -45,8 +45,9 @@ When I’m not configuring routing nodes or hacking on micro-tools, you can catc
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[⚡ lnd-autoconnect-peers](https://github.com/borocode/lnd-autoconnect-peers)** | Automated, rate-limited discovery and peering with top-tier Lightning Network routing hubs from Mempool.space without crashing SBC/Pi BoltDB instances. | `Python` `LND` `Docker` `Bash` |
-| **[⛏️ xmrig-termux-builder](https://github.com/borocode/xmrig-termux-builder)** | 1-command native ARM64 / aarch64 XMRig compilation script for Android devices inside Termux with automatic CPU wakelock and thermal controls. | `Bash` `C++` `CMake` `ARM64` |
+| **[⚡ lnd-autoconnect-peers](https://github.com/borocode/lnd-autoconnect-peers)** | Automated, rate-limited discovery and peering with top-tier Lightning Network routing hubs from Mempool.space with multi-mirror failover and SBC BoltDB protections. | `Python` `LND` `Docker` `Bash` |
+| **[⛏️ xmrig-termux-builder](https://github.com/borocode/xmrig-termux-builder)** | 1-command native ARM64 / aarch64 XMRig compilation script for Android Termux & Raspberry Pi 4/5 with CPU wakelock and thermal management. | `Bash` `C++` `CMake` `ARM64` |
+| **[📡 self-hosted-hls-streamer](https://github.com/borocode/self-hosted-hls-streamer)** | Minimalist self-hosted low-latency RTMP-to-HLS live broadcast engine with Cloudflare Tunnel zero-port-forwarding support and responsive HTML5 web player. | `HTML5` `HLS.js` `FFmpeg` `Cloudflare` |
 
 ---
 
