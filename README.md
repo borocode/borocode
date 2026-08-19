@@ -13,7 +13,7 @@
 [![Blog](https://img.shields.io/badge/Blog-blog.boroghor.com-39ff14?style=social&logo=hugo)](https://blog.boroghor.com)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-boroghor-FF5500?style=social&logo=soundcloud)](https://soundcloud.com/boroghor)
 [![Bandcamp](https://img.shields.io/badge/Bandcamp-boroghor-1DA0C3?style=social&logo=bandcamp)](https://boroghor.bandcamp.com)
-[![Spotify](https://img.shields.io/badge/Spotify-Boro%20Ghor-1DB954?style=social&logo=spotify)](https://open.spotify.com/search/Boro%20Ghor)
+[![Spotify](https://img.shields.io/badge/Spotify-Boro%20Ghor-1DB954?style=social&logo=spotify)](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr)
 [![Telegram](https://img.shields.io/badge/Telegram-boroghor__REAL-26A5E4?style=social&logo=telegram)](https://t.me/boroghor_REAL)
 [![OpenSea](https://img.shields.io/badge/OpenSea-boroghor-2081E2?style=social&logo=opensea)](https://opensea.io/boroghor)
 [![Lightning](https://img.shields.io/badge/Lightning⚡-ami%40boroghor.com-F7931A?style=social&logo=lightning)](https://boroghor.com)
@@ -64,7 +64,7 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 
 * **Hardware Grooveboxes & Samplers:** Teenage Engineering **EP-133 K.O. II** sampler & Elektron **Model:Cycles** FM groovebox.
 * **DAW & Sound Design:** Ableton Live Lite for sampling, glitch beats, and ambient soundscapes.
-* **Music Streaming:** Listen under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/search/Boro%20Ghor).
+* **Music Streaming:** Listen under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr).
 * **Broadcasting & Gaming:** Live streams & casual gaming sessions over on [Twitch (borokhela)](https://www.twitch.tv/borokhela).
 * **Essays & Writing:** Cyberpunk reflections, culture, and sovereign tech on [blog.boroghor.com](https://blog.boroghor.com).
 
