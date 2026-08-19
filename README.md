@@ -4,7 +4,7 @@
 
 ### *"Cypherpunks write code. You cannot fork the soul; you can only surveil the shell."*
 
-**Sovereign Node Operator • Electronic Music Producer • Protocol Tinkerer • Crypto-Native since 2012**
+**Sovereign Node Operator • Music Producer • Protocol Tinkerer • Crypto-Native since 2012**
 
 <br/>
 
@@ -32,7 +32,7 @@ I found Bitcoin in **2012** back when it was single-digit dollars and trust felt
 * **DeFi & NFTs:** Early liquidity mining, Ethereum & Solana DeFi protocols (Uniswap, Jupiter), and on-chain collectibles.
 * **Sovereignty & Compute:** Self-hosted Lightning routing nodes, P2Pool mining rails, local-first compute, and open-source infrastructure tooling.
 
-When I’m not configuring routing nodes or hacking on micro-tools, I produce electronic music with hardware grooveboxes & Ableton, write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
+When I’m not configuring routing nodes or hacking on micro-tools, I make music and beats with hardware grooveboxes & Ableton, write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
 
 > *"Loss doesn’t make you wise — it makes you legible to the other ghosts. They read your delays, your gaps, your dropped packets. They recognize their own. You’re just a node in a crashloop... The only difference is you’re still online."*  
 > — [YOU CANNOT FORK THE SOUL](https://blog.boroghor.com/posts/you-cannot-fork-the-soul/)
@@ -60,10 +60,10 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 
 ---
 
-### 🎹 Hardware Synths, Sound & Creative Production
+### 🎹 Hardware Samplers, Beats & Music Production
 
 * **Hardware Grooveboxes & Samplers:** Teenage Engineering **EP-133 K.O. II** sampler & Elektron **Model:Cycles** FM groovebox.
-* **DAW & Sound Design:** Ableton Live Lite for sampling, glitch beats, and ambient soundscapes.
+* **DAW & Production:** Ableton Live Lite for sampling, beatmaking, and sound collage.
 * **Music Streaming:** Listen under **Boro Ghor** on [SoundCloud](https://soundcloud.com/boroghor), [Bandcamp](https://boroghor.bandcamp.com), and [Spotify](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr).
 * **Broadcasting & Gaming:** Live streams & casual gaming sessions over on [Twitch (borokhela)](https://www.twitch.tv/borokhela).
 * **Essays & Writing:** Cyberpunk reflections, culture, and sovereign tech on [blog.boroghor.com](https://blog.boroghor.com).
@@ -102,7 +102,7 @@ Connect, verify, or zap across the network:
 ```text
 Languages       :: Python, Rust, TypeScript, Bash, C/C++, Go, SQL
 Protocols       :: Bitcoin / Lightning (LND & CLN), Monero (P2Pool), Solana (Web3.js), Nostr, I2P / Tor
-Audio & Synths  :: EP-133 K.O. II, Elektron Model:Cycles, Ableton Live Lite, MIDI / Sampling
+Audio & Beats   :: EP-133 K.O. II, Elektron Model:Cycles, Ableton Live Lite, Sampling
 Infrastructure  :: Docker, Linux (Debian, Arch, Alpine, ARM64), Umbrel, Tailscale, Cloudflare
 Engineering     :: QA & Test Automation, Systems Auditing, Edge Hardware Optimization
 ```
