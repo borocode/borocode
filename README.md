@@ -24,7 +24,7 @@
 
 Born in **Queens, NY** and based in the **Atlanta Metro Area, GA**. 
 
-I found Bitcoin in **2012** back when it was single-digit dollars and trust felt like pure mathematics. Over the last decade-plus, I’ve moved through every layer of the decentralized stack: from assembling GPU & ASIC mining rigs in the heat (Antminer S9/D3, 1080Ti, RX 580s) to navigating high-leverage perps, Solana DeFi liquidity pools, NFT market mechanics, and enterprise software QA testing.
+I found Bitcoin in **2012** back when it was single-digit dollars and trust felt like pure mathematics. Over the last decade-plus, I’ve moved through every layer of the decentralized stack: assembling GPU & ASIC mining rigs in the heat (Antminer S9/D3, 1080Ti, RX 580s), trading high-leverage perpetuals, working in enterprise software QA testing, and diving deep into Ethereum & Solana DeFi (Uniswap, Jupiter airdrops) alongside the NFT waves.
 
 Today, my focus is on **self-sovereignty, local-first computing, edge compute, and building open tools**. When I’m not configuring routing nodes or hacking on micro-tools, I write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, experiment with indie hardware (Playdate / ARM64), take photos, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
 
