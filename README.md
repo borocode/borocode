@@ -2,39 +2,38 @@
 
 # 👋 Rishad (Boro / `@borocode`)
 
-### *"You cannot fork the soul. You can only surveil the shell."*
+### *"Cypherpunks write code. You cannot fork the soul; you can only surveil the shell."*
 
-**Cypherpunk • Sovereign Infrastructure Runner • Essayist • Crypto-Native since 2012 • Streamer**
+**Sovereign Infrastructure Runner • Protocol Tinkerer • Creative Technologist • Crypto-Native since 2012**
 
 <br/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BoroGhor?style=social&logo=x)](https://x.com/BoroGhor)
 [![Twitch Status](https://img.shields.io/badge/Twitch-borokhela-9146FF?style=social&logo=twitch)](https://www.twitch.tv/borokhela)
-[![YouTube](https://img.shields.io/badge/YouTube-rishard-FF0000?style=social&logo=youtube)](https://www.youtube.com/user/rishard)
-[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=social&logo=discord)](https://discord.gg/QRuHnxQWb4)
 [![Blog](https://img.shields.io/badge/Blog-blog.boroghor.com-39ff14?style=social&logo=hugo)](https://blog.boroghor.com)
+[![YouTube](https://img.shields.io/badge/YouTube-rishard-FF0000?style=social&logo=youtube)](https://www.youtube.com/user/rishard)
 [![Flickr](https://img.shields.io/badge/Flickr-rishadphoto-0063DC?style=social&logo=flickr)](https://www.flickr.com/photos/rishadphoto/)
-[![Instagram](https://img.shields.io/badge/Instagram-boroghor-E4405F?style=social&logo=instagram)](https://www.instagram.com/boroghor/)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=social&logo=discord)](https://discord.gg/QRuHnxQWb4)
 [![Lightning](https://img.shields.io/badge/Lightning⚡-ami%40boroghor.com-F7931A?style=social&logo=lightning)](https://boroghor.com)
 
 </div>
 
 ---
 
-### 📖 The Origin & Ethos
+### 📖 The Genesis & Ethos
 
-Born in **Queens, NY** and currently based in the **Atlanta Metro Area, GA**. 
+Born in **Queens, NY** and based in the **Atlanta Metro Area, GA**. 
 
-I found Bitcoin in **2012** back when it was single-digit dollars and value felt sacred. From early ASIC/GPU mining rigs (Antminer S9/D3, 1080Ti, RX 580s) to navigating perps, DeFi primitives, Solana, and the NFT wave—I’ve lived through the market cycles, the forks, the dropped packets, and the rebuilds.
+I found Bitcoin in **2012** back when it was single-digit dollars and trust felt like pure mathematics. Over the last decade-plus, I’ve moved through every layer of the decentralized stack: from assembling GPU & ASIC mining rigs in the heat (Antminer S9/D3, 1080Ti, RX 580s) to navigating high-leverage perps, Solana DeFi liquidity pools, NFT market mechanics, and enterprise software QA testing.
 
-I believe in **self-custody, local-first compute, privacy as a boundary, and sovereign tech stacks**. When I’m not configuring nodes or writing tools for decentralized networks, I write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, take photos, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
+Today, my focus is on **self-sovereignty, local-first computing, edge compute, and building open tools**. When I’m not configuring routing nodes or hacking on micro-tools, I write essays on **[blog.boroghor.com](https://blog.boroghor.com)**, experiment with indie hardware (Playdate / ARM64), take photos, and stream live gameplay on **[Twitch (borokhela)](https://www.twitch.tv/borokhela)**.
 
 > *"Loss doesn’t make you wise — it makes you legible to the other ghosts. They read your delays, your gaps, your dropped packets. They recognize their own. You’re just a node in a crashloop... The only difference is you’re still online."*  
 > — [YOU CANNOT FORK THE SOUL](https://blog.boroghor.com/posts/you-cannot-fork-the-soul/)
 
 ---
 
-### 🚀 Open Source Tools & Repositories
+### 🚀 Featured Open Source Tools & Repositories
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -45,13 +44,22 @@ I believe in **self-custody, local-first compute, privacy as a boundary, and sov
 
 ### 🖥️ Sovereign Nodes & Homelab Setup
 
-I run my own decentralized infrastructure across dedicated physical hardware:
+I run self-hosted infrastructure locally across dedicated physical hardware:
 
-* **⚡ Lightning Network Node (`boroghor.com`):** Sovereign LND node on Umbrel, directly peered with 35+ top global liquidity hubs (`ACINQ`, `LNBiG`, `Strike`, `Bitfinex`, `OKX`, `CoinGate`, `Boltz`).
+* **⚡ Lightning Network Routing Hub (`boroghor.com`):** Sovereign LND node on Umbrel, directly peered with 35+ top global liquidity hubs (`ACINQ`, `LNBiG`, `Strike`, `Bitfinex`, `OKX`, `CoinGate`, `Boltz`).
 * **🛡️ Monero Mining Rails:** P2Pool mini mining rails and native ARM64 mobile mining.
 * **🍓 Edge & CV Node:** Raspberry Pi 5 dedicated to local edge telemetry, telemetry pipes, and real-time computer vision streams.
 * **📱 Mobile Mining Node:** Solana Seeker (ARM64) running background native mining in Termux.
 * **🎮 Primary Workstation:** AMD Ryzen 9 5950X (16C/32T) • NVIDIA RTX 3080 Ti • 64GB RAM • Dual-boot Windows / Linux.
+
+---
+
+### 🕹️ Hardware, Protocols & Creative Experiments
+
+* **Handheld & Indie Dev:** Lua scripting for the **Panic Playdate** crank console; embedded hardware tweaking.
+* **Privacy & Network Security:** Tor / I2P daemon routing, WabiSabi CoinJoin mechanics, and non-custodial Lightning address architecture.
+* **DeFi Automation & Telemetry:** Building custom pool bots, liquidity trackers, and telemetry dashboards across Solana & EVM.
+* **Creative Media:** Street & travel photography on [Flickr](https://www.flickr.com/photos/rishadphoto/), essays on [Hugo Blog](https://blog.boroghor.com/), and live broadcasting on [Twitch](https://www.twitch.tv/borokhela).
 
 ---
 
@@ -76,11 +84,11 @@ Connect, verify, or zap across the network:
 ### 🛠️ Skills & Technologies
 
 ```text
-Languages       :: Python, Rust, TypeScript, Bash, C/C++, Go, SQL
-Blockchain      :: Bitcoin / Lightning (LND & CLN), Monero (P2Pool), Solana, Ethereum (EVM)
-Infrastructure  :: Docker, Linux (Debian, Ubuntu, Alpine, ARM64), Umbrel, Tailscale, Cloudflare
-Hardware / IoT  :: Raspberry Pi 5, Solana Seeker (Android Termux), Custom Desktop Systems
-Creative        :: Writing & Essays (Hugo / Markdown), Photography (Flickr), Live Streaming (OBS / Twitch)
+Languages       :: Python, Rust, TypeScript, Bash, Lua, C/C++, Go, SQL
+Protocols       :: Bitcoin / Lightning (LND & CLN), Monero (P2Pool), Solana (Web3.js), Nostr, I2P / Tor
+Infrastructure  :: Docker, Linux (Debian, Arch, Alpine, ARM64), Umbrel, Tailscale, Cloudflare
+Engineering     :: QA & Test Automation, Systems Auditing, Edge Hardware Optimization
+Creative Tech   :: Panic Playdate (Lua), Hugo / Markdown, Street Photography, OBS Live Streaming
 ```
 
 ---
