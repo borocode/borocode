@@ -35,7 +35,7 @@ I believe strongly in **self-custody, local-first computing, and sovereign tech 
 I run my own decentralized infrastructure locally across multiple dedicated machines:
 
 * **⚡ Lightning Network Node (`boroghor.com`):** Self-hosted LND node on Umbrel, peered with 35+ top global liquidity hubs (`ACINQ`, `LNBiG`, `Strike`, `Bitfinex`, `OKX`, `CoinGate`, `Boltz`).
-* **🛡️ Monero Node:** Full self-custodied `monerod` daemon running private P2Pool mining rails.
+* **🛡️ Monero Mining:** Decentralized P2Pool mini mining rails and native ARM64 mobile mining.
 * **🍓 Edge & CV Node:** Raspberry Pi 5 dedicated to edge telemetry and real-time computer vision streams.
 * **📱 Mobile Mining Node:** Solana Seeker (ARM64) running native background RandomX mining in Termux.
 * **🎮 Primary Workstation:** AMD Ryzen 9 5950X (16C/32T) • NVIDIA RTX 3080 Ti • 64GB RAM • Dual-boot Windows / Linux.
