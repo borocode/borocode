@@ -116,8 +116,8 @@ Engineering     :: QA & Test Automation, Systems Auditing, Edge Hardware Optimiz
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=borocode&show_icons=true&theme=radical&hide_border=true" height="145" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borocode&layout=compact&theme=radical&hide_border=true" height="145" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=borocode&show_icons=true&theme=matrix&hide_border=false" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=borocode&layout=compact&theme=matrix&hide_border=false" height="155" alt="Top Languages" />
 
 <br/><br/>
 
