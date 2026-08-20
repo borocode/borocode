@@ -93,7 +93,7 @@ Connect, verify, or zap across the network:
 * **⚡ Lightning Node Pubkey:**  
   `02375fba2022199436f903f70edc6b2f3621175e5eea1b8c46ca8066fc7dcec988`
 * **🔵 Ethereum (ENS):** `boroghor.eth`
-* **🟣 Solana Name:** `rishad.sol`
+* **🟣 Solana Name:** `rishad.skr`
 * **🐦 X / Twitter:** [@BoroGhor](https://x.com/BoroGhor)
 * **🎮 Twitch:** [twitch.tv/borokhela](https://www.twitch.tv/borokhela)
 * **💬 Discord:** [discord.gg/QRuHnxQWb4](https://discord.gg/QRuHnxQWb4)
