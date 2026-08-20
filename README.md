@@ -46,6 +46,7 @@ When I’m not configuring routing nodes or hacking on micro-tools, you can catc
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[⚡ lnd-autoconnect-peers](https://github.com/borocode/lnd-autoconnect-peers)** | Automated, rate-limited discovery and peering with top-tier Lightning Network routing hubs from Mempool.space with multi-mirror failover and SBC BoltDB protections. | `Python` `LND` `Docker` `Bash` |
+| **[📄 ats-resume-optimizer](https://github.com/borocode/ats-resume-optimizer)** | Privacy-first CLI & pipeline to optimize resumes for 95%+ ATS match scores with multi-model support (Gemini, local offline Ollama, OpenAI) and automated follow-ups. | `Python` `Gemini` `Ollama` `AI/LLM` |
 | **[⛏️ xmrig-termux-builder](https://github.com/borocode/xmrig-termux-builder)** | 1-command native ARM64 / aarch64 XMRig compilation script for Android Termux & Raspberry Pi 4/5 with CPU wakelock and thermal management. | `Bash` `C++` `CMake` `ARM64` |
 | **[📡 self-hosted-hls-streamer](https://github.com/borocode/self-hosted-hls-streamer)** | Minimalist self-hosted low-latency RTMP-to-HLS live broadcast engine with Cloudflare Tunnel zero-port-forwarding support and responsive HTML5 web player. | `HTML5` `HLS.js` `FFmpeg` `Cloudflare` |
 | **[🧎 squatt-mint](https://github.com/borocode/squatt-mint)** | Standalone Web3 mint dApp for *Rishad Squatt* ERC-721 Drop on Ethereum Mainnet with live on-chain supply sync and zero-subgraph architecture. | `HTML5` `Ethers.js` `Web3` `Solidity` |
