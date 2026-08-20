@@ -78,6 +78,7 @@ I run self-hosted infrastructure locally across dedicated physical hardware:
 ### 🎨 On-Chain Collectibles, Mints & Web3
 
 * **OpenSea Vault:** [opensea.io/boroghor](https://opensea.io/boroghor)
+* **Rishad Squatt (ERC-721 Mint):** [mint.boroghor.com](https://mint.boroghor.com) • `0xeb051df4f4a5de7bdc462c947e551085ba3a9664`
 * **Courtyard Tokenized Collectibles:** [courtyard.io/user/rishad/collection](https://courtyard.io/user/rishad/collection)
 * **Scatter Art (Kaijukaki Mint):** [scatter.art/c/kaijukaki?shill=rishad](https://www.scatter.art/c/kaijukaki?shill=rishad)
 * **Zora Creator Profile & Token:** [zora.co/@boroghor](https://zora.co/@boroghor) • `$boroghor` (`0xcd480c51a9b9c7247491430a21b6e876060121d1`)
