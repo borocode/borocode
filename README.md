@@ -16,6 +16,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-Boro%20Ghor-1DB954?style=social&logo=spotify)](https://open.spotify.com/artist/1ICLG5eYFGz4PWgPWXD5Gr)
 [![Telegram](https://img.shields.io/badge/Telegram-boroghor__REAL-26A5E4?style=social&logo=telegram)](https://t.me/boroghor_REAL)
 [![OpenSea](https://img.shields.io/badge/OpenSea-boroghor-2081E2?style=social&logo=opensea)](https://opensea.io/boroghor)
+[![WiGLE](https://img.shields.io/badge/WiGLE-rishad_%23634-00FF66?style=social&logo=wifi)](https://wigle.net)
 [![Lightning](https://img.shields.io/badge/Lightning⚡-ami%40boroghor.com-F7931A?style=social&logo=lightning)](https://boroghor.com)
 
 </div>
@@ -58,6 +59,7 @@ When I’m not configuring routing nodes or hacking on micro-tools, you can catc
 I run self-hosted infrastructure locally across dedicated physical hardware:
 
 * **⚡ Lightning Network Routing Hub (`boroghor.com`):** Sovereign LND node on Umbrel, directly peered with 35+ top global liquidity hubs (`ACINQ`, `LNBiG`, `Strike`, `Bitfinex`, `OKX`, `CoinGate`, `Boltz`).
+* **📡 WiGLE Wardriving & RF Telemetry (Global Rank #634):** Continuous mobile RF spatial mapping (547,000+ WiFi APs / 1.95M+ Bluetooth devices discovered).
 * **🛡️ Monero Mining Rails:** P2Pool mini mining rails and native ARM64 mobile mining.
 * **🍓 Edge & CV Node:** Raspberry Pi 5 dedicated to local edge telemetry, telemetry pipes, and real-time computer vision streams.
 * **📱 Mobile Mining Node:** Solana Seeker (ARM64) running background native mining in Termux.
@@ -116,6 +118,12 @@ Engineering     :: QA & Test Automation, Systems Auditing, Edge Hardware Optimiz
 ---
 
 <div align="center">
+
+<a href="https://wigle.net" target="_blank">
+  <img src="https://wigle.net/bi/ZZxeY1C3jdO+I+jnQpMmZw.png" alt="WiGLE Wardriving Stats" />
+</a>
+
+<br/><br/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=borocode&show_icons=true&theme=matrix&hide_border=false" height="155" alt="GitHub Stats" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=borocode&layout=compact&theme=matrix&hide_border=false" height="155" alt="Top Languages" />
